@@ -1,5 +1,6 @@
-package learning.spring.boot.myApp;
+package learning.spring.boot.myApp.rest;
 
+import learning.spring.boot.util.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

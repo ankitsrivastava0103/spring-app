@@ -1,4 +1,4 @@
-package learning.spring.boot.myApp;
+package learning.spring.boot.util;
 
 import org.springframework.stereotype.Component;
 
