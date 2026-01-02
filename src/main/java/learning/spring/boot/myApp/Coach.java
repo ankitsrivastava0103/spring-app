@@ -1,4 +1,4 @@
-package learning.spring.boot.util;
+package learning.spring.boot.myApp;
 
 public interface Coach {
 
